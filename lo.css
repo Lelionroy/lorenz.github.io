@@ -1,0 +1,8 @@
+.pic{
+  width: min(420px, 90%);
+  height: auto;
+  border-radius: 18px;
+  margin: 10px auto 10px;
+  display: block;
+  box-shadow: 0 14px 40px rgba(0,0,0,0.12);
+}
